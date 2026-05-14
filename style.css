@@ -1,0 +1,56 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial;
+    color: #333;
+}
+
+.first-section {
+    margin-bottom: 60px; 
+}
+
+.main-title {
+    color: #5f7161;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.sub-title {
+    color: #8b7e74;
+    margin-top: 10px;
+}
+
+.first-text {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.btn {
+    background-color: #5f7161;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.about-section,
+.education-section,
+.skills-section,
+.projects-section,
+.contact-section {
+    margin-top: 60px;
+}
+.section-title {
+    text-align: center;
+    color: #5f7161;
+    margin-bottom: 30px;
+    font-weight:bold ;
+}
+
+.custom-card {
+    padding: 20px;
+    border-radius: 10px;
+}
+
